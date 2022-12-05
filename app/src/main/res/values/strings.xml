@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stamp Application</string>
+    <string name="delete_title">Delete the Selected Stemp</string>
+    <string name="dialog_message">Do you want to Delete the Stemp ?</string>
+    <string name="delete_positive_btn">YES</string>
+    <string name="delete_negative_btn">NO</string>
+</resources>
